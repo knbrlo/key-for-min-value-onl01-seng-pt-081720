@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
       array_of_values << value
     end
 
-    puts array_of_values.sort
+    array_of_values.sort
   end
 
 
